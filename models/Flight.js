@@ -1,1 +1,2 @@
-exports.exampleModel = [];
+// exports.exampleModel = [];
+exports.Flights=[];
